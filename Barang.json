@@ -1,0 +1,14 @@
+[
+  {
+    "id" : "1",
+    "namaMakanan" : "Bangku",
+    "keteranganMakanan" : "Bangku cafe aesthetick",
+    "gambar" : "bangku"
+  },
+  {
+    "id" : "2",
+    "namaMakanan" : "Meja",
+    "keteranganMakanan" : "Meja cafe aesthetick",
+    "gambar" : "meja"
+  }
+]
