@@ -1,0 +1,14 @@
+[
+  {
+    "id" : "1",
+    "nama" : "Bangku",
+    "ket" : "Bangku cafe aesthetic",
+    "gambar" : "bangku"
+  },
+  {
+    "id" : "2",
+    "nama" : "Meja",
+    "ket" : "Meja cafe aesthetic",
+    "gambar" : "meja"
+  }
+]
